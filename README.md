@@ -1,9 +1,9 @@
-## Blogs
+# Blogs
 
-## Online lectures
+# Online lectures
 
-## Courses
+# Courses
 
-## Papers
+# Papers
 
-# Surveys
+## Surveys
