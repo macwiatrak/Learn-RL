@@ -5,7 +5,7 @@
 - Alexirpan 
 
 # Online lectures
-- Stanford CS234: Reinforcement Learning[http://web.stanford.edu/class/cs234/index.html]
+- [Stanford CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html)
 - Berkeley Deep Reinforcement Learning course[http://rail.eecs.berkeley.edu/deeprlcourse/]
 - UCL Reinforcement Learning course by David Silver[http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html]
 - UCL Advanced Deep Learning and Reinforcement Learning course[https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs]
