@@ -27,7 +27,7 @@
 ## Surveys
 
 ## Books
-- Sutton and Barto
+- Introduction to Reinforcement Learning. Sutton and Barto
 - Reinforcement Learning State-of-the-Art by Wiering and van Otterlo. 
 - “Algorithms for Reinforcement Learning” Csaba Szepesvari, Ronald Brachman, Thomas Dietterich: 
 - Markov Decision Processes” Markov Decision Processes: Discrete Stochastic Dynamic Programming (9780471727828): Martin L. Puterman
